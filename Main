@@ -1,2 +1,4 @@
 def duck():
   print("oh kuack kuack kuack!!")
+
+#duck is annoying
